@@ -39,6 +39,14 @@ Aplikacja udostępnia graficzny interfejs użytkownika, w którym można wprowad
 
 5. Program uruchomi się w nowym oknie jako aplikacja graficzna (Swing).
 
+## Zrzuty ekranu
+
+<p align="center">
+  <img src="https://i.imgur.com/vLhVx7F.png" alt="Widok 1" width="320" style="margin: 10px; border: 1px solid #ccc;"/>
+  <img src="https://i.imgur.com/luELhjY.png" alt="Widok 2" width="320" style="margin: 10px; border: 1px solid #ccc;"/>
+  <img src="https://i.imgur.com/Pf7SqKX.png" alt="Widok 3" width="320" style="margin: 10px; border: 1px solid #ccc;"/>
+</p>
+
 ## Wymagania
 
 - Zainstalowane **Java Development Kit (JDK)**
