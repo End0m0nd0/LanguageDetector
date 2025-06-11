@@ -4,7 +4,7 @@ import java.io.IOException;
 
 public class Main {
     public static void main(String[] args) throws IOException {
-        File [] files = new File("Languages").listFiles();
+        File [] files = new File("../Languages").listFiles();
         Language [] languages = new Language[files.length];
         for(int i=0;i<files.length;i++)
             languages[i] = new Language(files[i]);
@@ -29,7 +29,7 @@ public class Main {
                 }
             }
         }while (learning && count < limit);
-            File[] testingFolders = new File("Languages").listFiles();
+            File[] testingFolders = new File("../Languages").listFiles();
             int correct = 0;
             int all = 0;
             for (File lang : testingFolders)
